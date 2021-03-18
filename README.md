@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello there 👋
 
 - 🔭 I’m currently working on [Checkstyle](https://github.com/checkstyle/checkstyle)
 - 🌱 I’m currently learning Java
