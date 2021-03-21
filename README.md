@@ -5,7 +5,7 @@
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/bossever)
 - ⚡ Fun fact: 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=bossever&color=blue&style=flat-square)
 
 ![bossever's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossever&show_icons=true&theme=vue&count_private=true&hide=stars&hide_border=true&include_all_commits=true&hide_rank=true&custom_title=bossever's+GitHub+stats)
 
