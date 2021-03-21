@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Checkstyle](https://github.com/checkstyle/checkstyle)
 - 🌱 I’m currently learning Java
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/bossever)
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Woolly Mammoths still roamed the Earth when the Great Pyramids of Giza were being built.
 
 ![](https://komarev.com/ghpvc/?username=bossever&color=blue&style=flat-square)
 
