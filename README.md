@@ -7,6 +7,8 @@
 
 ![](https://komarev.com/ghpvc/?username=bossever&color=blue&style=flat-square)
 
+______________________________________________________________________
+
 ### GitHub Stats 💯
 
 <p align="center">
@@ -14,6 +16,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bossever&show_icons=true&theme=dark&count_private=true&hide=stars&hide_border=true&include_all_commits=true&hide_rank=true&custom_title=bossever's+GitHub+stats"/>
   </a>
 </p>
+
+______________________________________________________________________
 
 ### Social 👨👩
 
@@ -29,11 +33,15 @@
   </a>  
 </p>
 
+______________________________________________________________________
+
 ### Technologies & Languages 💻
 <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> &nbsp;&nbsp;
     <!--  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> &nbsp;&nbsp;  -->
   	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+______________________________________________________________________
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossever&layout=compact)  -->
