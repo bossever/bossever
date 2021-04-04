@@ -7,6 +7,6 @@
 
 ![](https://komarev.com/ghpvc/?username=bossever&color=blue&style=flat-square)
 
-![bossever's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossever&show_icons=true&theme=vue&count_private=true&hide=stars&hide_border=true&include_all_commits=true&hide_rank=true&custom_title=bossever's+GitHub+stats)
+<!-- ![bossever's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossever&show_icons=true&theme=vue&count_private=true&hide=stars&hide_border=true&include_all_commits=true&hide_rank=true&custom_title=bossever's+GitHub+stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossever&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossever&layout=compact)  -->
