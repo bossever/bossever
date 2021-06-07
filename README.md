@@ -1,7 +1,6 @@
 ## Hello there 👋
 
-- 🔭 I’m working on [Checkstyle](https://github.com/checkstyle/checkstyle)
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Django
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/bossever)
 - ⚡ Fun fact: Woolly Mammoths still roamed the Earth when the Great Pyramids of Giza were being built.
 
