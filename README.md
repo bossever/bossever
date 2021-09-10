@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Data Structures
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/bossever)
 - ⚡ Fun fact: Woolly Mammoths still roamed the Earth when the Great Pyramids of Giza were being built.
 
