@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-- 🌱 I’m currently learning Data Structures
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/bossever)
+- 🌱 I love reading about problem solving using software.cf
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/bossever) or [e-mail](mailto:ashusachan01@gmail.com)
 - ⚡ Fun fact: Woolly Mammoths still roamed the Earth when the Great Pyramids of Giza were being built.
 
 ![](https://komarev.com/ghpvc/?username=bossever&color=blue&style=flat-square)
@@ -18,32 +18,12 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
-### Social 👨👩
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bossever/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:ashusachan01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_bossever_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>  
-</p>
-
-______________________________________________________________________
-
-### Languages
+### Languages & Frameworks
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp;&nbsp;
-</p>
-
-### Frameworks
-<p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> &nbsp;&nbsp;
@@ -54,5 +34,3 @@ ______________________________________________________________________
 </p>
 
 ______________________________________________________________________
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossever&layout=compact)  -->
