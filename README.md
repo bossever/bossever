@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 - 🌱 I love reading about problem solving using software.
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/bossever) or [e-mail](mailto:ashusachan01@gmail.com)
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/bossever)
 - ⚡ Fun fact: Woolly Mammoths still roamed the Earth when the Great Pyramids of Giza were being built.
 
 ![](https://komarev.com/ghpvc/?username=bossever&color=blue&style=flat-square)
