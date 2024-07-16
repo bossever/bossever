@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-- 🌱 I love reading about problem solving using software.
+- 🌱 I love problem solving using software.
 - 📖 Currently learning about Distributed Systems.
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/bossever)
 - ⚡ Fun fact: Woolly Mammoths still roamed the Earth when the Great Pyramids of Giza were being built.
